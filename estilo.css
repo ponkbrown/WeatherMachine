@@ -1,0 +1,53 @@
+body {
+  background: url('https://source.unsplash.com/XRRiHEckyU0/1500x1500') no-repeat center center fixed;
+}
+
+.u-title {
+  margin-bottom: 60px;
+  text-align: center;
+  color: #f1f5fb;
+  font-family: 'Yeseva One', curseive;
+  text-shadow: 2px 2px 20px rgba(39, 65, 103, 0.8);
+}
+
+#grades {
+  text-align:center;
+}
+
+#grades h1{
+  text-align:center;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #f1f5fb;
+  text-shadow: 2px 2px 10px rgba(39, 65, 103,0.8);
+  font-size: 13em;
+  display: inline;
+}
+
+#grades em{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #f1f5fb;
+  text-shadow: 1px 1px rgba(39, 65, 103,0.8);
+  font-size: 5em;
+  display: inline;
+}
+
+#description{
+  margin-top: 1.5em;
+  text-align:center;
+  color: #f1f5fb;
+  font-family: 'Josefin Sans', sans-serif;
+  text-shadow: 1px 1px 10px rgba(39,65,103,0.8);
+  font-size: 5em;
+}
+
+#forecast {
+  transform: scale(2.5,2.5);
+  margin-top: 14em;
+}
+.info{
+  text-align: center;
+}
+.jumbotron {
+  background: rgba(54, 156, 200, 0.5);
+  margin-top: 100px;
+}
